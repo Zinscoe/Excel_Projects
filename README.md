@@ -7,3 +7,6 @@ changing the names of mispelled artists and their songs, and then I had to ensur
 for the numbers on the streamed songs. Then I had to create a sum value of the individual songs together for each artist. Checked for blank cells and duplicated
 values just in case, but thankfully didn't have any. Afterwards I was able to create a Pivot Table with the information and turn it into the bar chart you see below.
 ![Spotify_Streaming](https://github.com/Zinscoe/Excel_Projects/assets/70861505/f8c44009-1918-475a-bda9-10a9d67d677c)
+
+
+![image](https://github.com/Zinscoe/Excel_Projects/assets/70861505/eb1fc1dd-2aa3-4c8c-aaee-b44fad81ba45)
