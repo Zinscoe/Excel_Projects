@@ -9,4 +9,8 @@ values just in case, but thankfully didn't have any. Afterwards I was able to cr
 ![Spotify_Streaming](https://github.com/Zinscoe/Excel_Projects/assets/70861505/f8c44009-1918-475a-bda9-10a9d67d677c)
 
 
+With this dashboard on Bike Sales, I was able to use the data and model it into different graphs and slicers within the dashboard. The graphs show the Avg income
+Per Purchase based on if the bike was purchased or not, and by each gender. Shows Customer Age Brackets from Adolescent to Old and how many bikes were purchased. And lastly,
+ the Customer Commute graph shows the average commute ranging from 0-1 miles to 10 miles+. You can also use the slicers on the side to filter the data by Marital Status,
+ Region, and even Education.
 ![image](https://github.com/Zinscoe/Excel_Projects/assets/70861505/eb1fc1dd-2aa3-4c8c-aaee-b44fad81ba45)
