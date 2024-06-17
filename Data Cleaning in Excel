@@ -1,0 +1,13 @@
+Identify duplicates by going to Conditional Formatting > Duplicate Values > Highlight Values
+
+Then we can go to the Data tab and then select Duplicate Revalues and Excel will remove those values
+
+Use TRIM() to cleanup columns of whitespace
+
+To delete blank values go to Find & Select and select Blanks
+
+To do a simple spell check on the values just highlight the column you want to check and then go to Review tab and click on Spelling
+
+Format Date and Number formats to ensure they're all the same formats
+
+Remove Gridlines in Dashboards for cleaner Dashboarda by going to the View tab and unchecking the Gridlines box
