@@ -14,3 +14,6 @@ Per Purchase based on if the bike was purchased or not, and by each gender. Show
  the Customer Commute graph shows the average commute ranging from 0-1 miles to 10 miles+. You can also use the slicers on the side to filter the data by Marital Status,
  Region, and even Education.
 ![image](https://github.com/Zinscoe/Excel_Projects/assets/70861505/eb1fc1dd-2aa3-4c8c-aaee-b44fad81ba45)
+
+This dashboard was used to show details in each country, sales of each type of coffee, the types of coffee, and much more. This project implemented more of XLOOKUP and TRIM and PROPER than any other Excel shortcuts. And allowed for more practice on creation of Pivot Tables and how to properly display data into a dashboard.
+![CoffeeDashboard](https://github.com/user-attachments/assets/1ccf5161-d1e1-4fed-a0c2-f0e8f9c7535c)
