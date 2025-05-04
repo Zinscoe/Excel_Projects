@@ -17,3 +17,6 @@ Per Purchase based on if the bike was purchased or not, and by each gender. Show
 
 This dashboard was used to show details in each country, sales of each type of coffee, the types of coffee, and much more. This project implemented more of XLOOKUP and TRIM and PROPER than any other Excel shortcuts. And allowed for more practice on creation of Pivot Tables and how to properly display data into a dashboard.
 ![CoffeeDashboard](https://github.com/user-attachments/assets/1ccf5161-d1e1-4fed-a0c2-f0e8f9c7535c)
+
+This dashboard is simple but efficient. It shows the Customer Churn rate for a Telecomm company based off of it's contracts: Month-to-Month, One Year, Two Year. Shows which percentage of each contract has a customer churn, has the average cost of each contract, and how many customers are with each contract. This is very beneficial for any company as to find out why customers are leaving or staying.
+![SumOfChurn,AvgMonthlyCharges,SumTotalCounter](https://github.com/user-attachments/assets/b22cd18c-833d-473c-a750-b27b53c0e855)
