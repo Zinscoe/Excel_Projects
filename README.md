@@ -20,3 +20,6 @@ This dashboard was used to show details in each country, sales of each type of c
 
 This dashboard is simple but efficient. It shows the Customer Churn rate for a Telecomm company based off of it's contracts: Month-to-Month, One Year, Two Year. Shows which percentage of each contract has a customer churn, has the average cost of each contract, and how many customers are with each contract. This is very beneficial for any company as to find out why customers are leaving or staying.
 ![SumOfChurn,AvgMonthlyCharges,SumTotalCounter](https://github.com/user-attachments/assets/b22cd18c-833d-473c-a750-b27b53c0e855)
+
+
+<img width="1777" height="619" alt="image" src="https://github.com/user-attachments/assets/b6085886-4d38-4339-92c6-b04820d80a2d" />
